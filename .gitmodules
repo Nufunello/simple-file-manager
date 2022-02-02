@@ -1,0 +1,150 @@
+[submodule "third-party/beast"]
+	path = third-party/boost/beast
+	url = https://github.com/boostorg/beast.git
+[submodule "third-party/asio"]
+	path = third-party/boost/asio
+	url = https://github.com/boostorg/asio.git
+[submodule "third-party/config"]
+	path = third-party/boost/config
+	url = https://github.com/boostorg/config.git
+[submodule "third-party/regex"]
+	path = third-party/boost/regex
+	url = https://github.com/boostorg/regex.git
+[submodule "third-party/system"]
+	path = third-party/boost/system
+	url = https://github.com/boostorg/system.git
+[submodule "third-party/coroutine"]
+	path = third-party/boost/coroutine
+	url = https://github.com/boostorg/coroutine.git
+[submodule "third-party/assert"]
+	path = third-party/boost/assert
+	url = https://github.com/boostorg/assert.git
+[submodule "third-party/throw_exception"]
+	path = third-party/boost/throw_exception
+	url = https://github.com/boostorg/throw_exception.git
+[submodule "third-party/align"]
+	path = third-party/boost/align
+	url = https://github.com/boostorg/align.git
+[submodule "third-party/winapi"]
+	path = third-party/boost/winapi
+	url = https://github.com/boostorg/winapi.git
+[submodule "third-party/predef"]
+	path = third-party/boost/predef
+	url = https://github.com/boostorg/predef.git
+[submodule "third-party/date_time"]
+	path = third-party/boost/date_time
+	url = https://github.com/boostorg/date_time.git
+[submodule "third-party/smart_ptr"]
+	path = third-party/boost/smart_ptr
+	url = https://github.com/boostorg/smart_ptr.git
+[submodule "third-party/core"]
+	path = third-party/boost/core
+	url = https://github.com/boostorg/core.git
+[submodule "third-party/utility"]
+	path = third-party/boost/utility
+	url = https://github.com/boostorg/utility.git
+[submodule "third-party/static_assert"]
+	path = third-party/boost/static_assert
+	url = https://github.com/boostorg/static_assert.git
+[submodule "third-party/type_traits"]
+	path = third-party/boost/type_traits
+	url = https://github.com/boostorg/type_traits.git
+[submodule "third-party/numeric_conversion"]
+	path = third-party/boost/numeric_conversion
+	url = https://github.com/boostorg/numeric_conversion.git
+[submodule "third-party/mpl"]
+	path = third-party/boost/mpl
+	url = https://github.com/boostorg/mpl.git
+[submodule "third-party/preprocessor"]
+	path = third-party/boost/preprocessor
+	url = https://github.com/boostorg/preprocessor.git
+[submodule "third-party/bind"]
+	path = third-party/boost/bind
+	url = https://github.com/boostorg/bind.git
+[submodule "third-party/tokenizer"]
+	path = third-party/boost/tokenizer
+	url = https://github.com/boostorg/tokenizer.git
+[submodule "third-party/iterator"]
+	path = third-party/boost/iterator
+	url = https://github.com/boostorg/iterator.git
+[submodule "third-party/move"]
+	path = third-party/boost/move
+	url = https://github.com/boostorg/move.git
+[submodule "third-party/range"]
+	path = third-party/boost/range
+	url = https://github.com/boostorg/range.git
+[submodule "third-party/io"]
+	path = third-party/boost/io
+	url = https://github.com/boostorg/io.git
+[submodule "third-party/conversion"]
+	path = third-party/boost/conversion
+	url = https://github.com/boostorg/conversion.git
+[submodule "third-party/lexical_cast"]
+	path = third-party/boost/lexical_cast
+	url = https://github.com/boostorg/lexical_cast.git
+[submodule "third-party/algorithm"]
+	path = third-party/boost/algorithm
+	url = https://github.com/boostorg/algorithm.git
+[submodule "third-party/integer"]
+	path = third-party/boost/integer
+	url = https://github.com/boostorg/integer.git
+[submodule "third-party/container"]
+	path = third-party/boost/container
+	url = https://github.com/boostorg/container.git
+[submodule "third-party/array"]
+	path = third-party/boost/array
+	url = https://github.com/boostorg/array.git
+[submodule "third-party/unordered"]
+	path = third-party/boost/unordered
+	url = https://github.com/boostorg/unordered.git
+[submodule "third-party/tuple"]
+	path = third-party/boost/tuple
+	url = https://github.com/boostorg/tuple.git
+[submodule "third-party/optional"]
+	path = third-party/boost/optional
+	url = https://github.com/boostorg/optional.git
+[submodule "third-party/detail"]
+	path = third-party/boost/detail
+	url = https://github.com/boostorg/detail.git
+[submodule "third-party/container_hash"]
+	path = third-party/boost/container_hash
+	url = https://github.com/boostorg/container_hash.git
+[submodule "third-party/concept_check"]
+	path = third-party/boost/concept_check
+	url = https://github.com/boostorg/concept_check.git
+[submodule "third-party/fusion"]
+	path = third-party/boost/fusion
+	url = https://github.com/boostorg/fusion.git
+[submodule "third-party/intrusive"]
+	path = third-party/boost/intrusive
+	url = https://github.com/boostorg/intrusive.git
+[submodule "third-party/typeof"]
+	path = third-party/boost/typeof
+	url = https://github.com/boostorg/typeof.git
+[submodule "third-party/function_types"]
+	path = third-party/boost/function_types
+	url = https://github.com/boostorg/function_types.git
+[submodule "third-party/function"]
+	path = third-party/boost/function
+	url = https://github.com/boostorg/function.git
+[submodule "third-party/exception"]
+	path = third-party/boost/exception
+	url = https://github.com/boostorg/exception.git
+[submodule "third-party/variant2"]
+	path = third-party/boost/variant2
+	url = https://github.com/boostorg/variant2.git
+[submodule "third-party/context"]
+	path = third-party/boost/context
+	url = https://github.com/boostorg/context.git
+[submodule "third-party/pool"]
+	path = third-party/boost/pool
+	url = https://github.com/boostorg/pool.git
+[submodule "third-party/type_index"]
+	path = third-party/boost/type_index
+	url = https://github.com/boostorg/type_index.git
+[submodule "third-party/mp11"]
+	path = third-party/boost/mp11
+	url = https://github.com/boostorg/mp11.git
+[submodule "third-party/logic"]
+	path = third-party/boost/logic
+	url = https://github.com/boostorg/logic.git
